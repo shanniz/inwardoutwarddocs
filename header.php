@@ -17,7 +17,7 @@
 								<a href="create_outward.php" class="dropdown-item">New Outward</a>								
 							</div>
 						</div>
-						<a href="users.php" id="navUsers" class="nav-item nav-link">Users</a>
+						<a href="users.php" id="navTeachers" class="nav-item nav-link">Teachers</a>
 						<a href="settings.php" id="navSettings" class="nav-item nav-link">Settings</a>
 						<!-- <a href="about.php" id="navAbout" class="nav-item nav-link" >About</a> -->
 					</div>
